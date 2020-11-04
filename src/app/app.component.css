@@ -1,0 +1,53 @@
+.add-note-section {
+    margin-left: 25%;
+    width: 50%;
+}
+app-root
+{
+    text-align: center;
+}
+
+.mat-input {
+    width: 100%;
+}
+
+.mat-input button
+{
+    background-color: cadetblue;
+}
+
+.notes-section{
+    width: 50%;
+    
+    margin-left: 25%;
+}
+
+mat-card {
+    display: inline-flex;
+    margin-right: 15px;
+    margin-bottom: 20px;
+    background-color: cadetblue;
+    border: 2px solid coral;
+}
+mat-expansion-panel
+{
+    background-color: rgba(0, 0, 255, 0.158);
+}
+
+.card-container
+{
+    display: flex;
+    flex-direction: row;
+    margin: 10vh 15vw;
+    justify-content: space-around;
+    /* background-color: cadetblue !important; */
+}
+
+.note-card
+{
+    display: flex;
+    flex-direction: column;
+    background-color: cadetblue !important;
+    border-radius: 10%;
+    border: 2px solid coral;
+}

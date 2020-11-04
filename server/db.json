@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Read Angular 5 blog",
+      "text": "Shall do at 6 pm"
+    },
+    {
+      "title": "Java Course",
+      "text": "At evening 4pm",
+      "id": 2
+    },
+    {
+      "title": "DotNet",
+      "text": "At morning 10am",
+      "id": 3
+    },
+    {
+      "title": "java",
+      "text": "java meeting",
+      "id": 4
+    }
+  ]
+}
